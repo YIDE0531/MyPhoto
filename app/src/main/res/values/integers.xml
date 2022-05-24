@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Expandable -->
+    <integer name="expandable_item_indicator_anim_duration">200</integer>
+
+    <!-- Animations -->
+    <integer name="anim_duration_extreme_long">5000</integer>
+    <integer name="anim_duration_very_long">1500</integer>
+    <integer name="anim_duration_long">500</integer>
+    <integer name="anim_duration_default">400</integer>
+    <integer name="anim_duration_medium">300</integer>
+    <integer name="anim_duration_short">200</integer>
+    <integer name="anim_duration_tiny">100</integer>
+    <integer name="album_title_max_length">30</integer>
+
+    <integer name="bottom_sheet_title_max_lines">6</integer>
+</resources>
